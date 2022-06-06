@@ -6,5 +6,5 @@ The Relational Data Model can be found as ERD.jpg.
 
 The structure is saved in fetch.sql, and the query is in Query.sql.
 
-The Data Evaluation is FetchRewards.ipynb and the email/slack message is 
+The Data Evaluation is FetchRewards.ipynb and the email/slack message is Comunicate with Stakeholders.docx
 
